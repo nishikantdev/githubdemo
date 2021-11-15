@@ -5,3 +5,5 @@ encryption-decryption
 dark mode
 audio call
 vedio call
+vibrant
+status
