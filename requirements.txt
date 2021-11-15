@@ -1,0 +1,4 @@
+This is chat application
+emoji
+keybord with different language
+encryption-decryption
