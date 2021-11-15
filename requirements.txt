@@ -2,3 +2,6 @@ This is chat application
 emoji
 keybord with different language
 encryption-decryption
+dark mode
+audio call
+vedio call
